@@ -1,4 +1,5 @@
 ## Simple app about my professional skills
+![Single Responsibility Principle image](./example.gif)
 
 ### Using 
 - node.js
